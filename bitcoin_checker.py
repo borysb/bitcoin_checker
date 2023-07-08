@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#test niedziałającego gita
 
 import requests
 
